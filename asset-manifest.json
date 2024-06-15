@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Matching-Game/static/css/main.9bde3b9e.css",
+    "main.js": "/Matching-Game/static/js/main.d11a037e.js",
+    "static/media/back1.png": "/Matching-Game/static/media/back1.d1da870ab1bf7e2148c7.png",
+    "static/media/lastimage.png": "/Matching-Game/static/media/lastimage.24fcbf16d9a8f825e140.png",
+    "static/media/Smilemonkey.png": "/Matching-Game/static/media/Smilemonkey.7026a7bd0c33deeef9b1.png",
+    "static/media/2card.png": "/Matching-Game/static/media/2card.bfcfc44f2beb27aaa183.png",
+    "static/media/fontback.png": "/Matching-Game/static/media/fontback.ca6109b6c6dd500a5b69.png",
+    "static/media/openOs.png": "/Matching-Game/static/media/openOs.fc830a95aeefb997894b.png",
+    "static/media/closebluecard.png": "/Matching-Game/static/media/closebluecard.6e1beaed4c49390ea026.png",
+    "static/media/closepinkcard.png": "/Matching-Game/static/media/closepinkcard.306e32212fcc1b9e8c5b.png",
+    "static/media/AlphaAs.png": "/Matching-Game/static/media/AlphaAs.769d0baaabceec7b5bd5.png",
+    "static/media/Orange.png": "/Matching-Game/static/media/Orange.0c4fe6272ecad00e9f59.png",
+    "static/media/MonkeyBanana.png": "/Matching-Game/static/media/MonkeyBanana.d53c55c4d0d141fb47d7.png",
+    "static/media/leftarw.png": "/Matching-Game/static/media/leftarw.c112ec504c62eb9607b2.png",
+    "static/media/cardapple.png": "/Matching-Game/static/media/cardapple.d8a1fd34eaafe8fd3d0e.png",
+    "static/media/openapple.png": "/Matching-Game/static/media/openapple.7041d59bd9e507d52e87.png",
+    "index.html": "/Matching-Game/index.html",
+    "main.9bde3b9e.css.map": "/Matching-Game/static/css/main.9bde3b9e.css.map",
+    "main.d11a037e.js.map": "/Matching-Game/static/js/main.d11a037e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bde3b9e.css",
+    "static/js/main.d11a037e.js"
+  ]
+}
